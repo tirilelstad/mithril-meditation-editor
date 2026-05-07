@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.DS_Store
+
+# uploaded files — don't commit user data
+nature_library/
+uploads/
+tmp/
+/tmp/
+
+# large processed outputs
+*.mp3
+*.wav
+*.m4a
+*.aac
+
+# but DO keep presets
+!presets/*.mp3
+!presets/*.wav

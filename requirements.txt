@@ -1,0 +1,6 @@
+flask>=3.0
+pydub>=0.25.1
+numpy>=1.26
+scipy>=1.11
+imageio-ffmpeg>=0.4.9
+gunicorn>=21.0
